@@ -17,5 +17,5 @@
 ![image](https://user-images.githubusercontent.com/87138262/162355621-1667c356-0d84-4755-afdd-4128e9d0faae.png)
 ---
 # page 7
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/87138262/162355893-cfe9307f-c029-4927-8fd7-907acf8ada43.png)
 ---
