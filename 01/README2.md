@@ -22,6 +22,7 @@ https://www.arcgis.com/home/signin.html![image]
 ---
 # page 8
 https://www.esrij.com/getting-started/what-is-gis/
+
 https://www.esrij.com/gis-guide/
 ![image](https://user-images.githubusercontent.com/87138262/162370096-7f102851-b20f-4b61-b380-1ca36e62c5f3.png)
 ---
